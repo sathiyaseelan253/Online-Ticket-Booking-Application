@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Console Application", "Project-Console Application\Project-Console Application.csproj", "{119C02BE-0FEE-48B4-86A5-5606D834181F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AdminRespository", "AdminRespository", "{74E29792-9F8F-4610-92AF-83841905CE14}"
+	ProjectSection(SolutionItems) = preProject
+		Project-Console Application\ChooseFunction.cs = Project-Console Application\ChooseFunction.cs
+		Project-Console Application\FunctionManager.cs = Project-Console Application\FunctionManager.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Movie", "Movie", "{7E4A1DED-9209-4AE7-A506-7973350F2818}"
+	ProjectSection(SolutionItems) = preProject
+		Project-Console Application\BookedMovies.cs = Project-Console Application\BookedMovies.cs
+		Project-Console Application\BookTicket.cs = Project-Console Application\BookTicket.cs
+		Project-Console Application\FurtherBooking.cs = Project-Console Application\FurtherBooking.cs
+		Project-Console Application\MovieConstructor.cs = Project-Console Application\MovieConstructor.cs
+		Project-Console Application\MovieModule.cs = Project-Console Application\MovieModule.cs
+		Project-Console Application\Movies.cs = Project-Console Application\Movies.cs
+		Project-Console Application\SelectedMoviesList.cs = Project-Console Application\SelectedMoviesList.cs
+		Project-Console Application\Ticket.cs = Project-Console Application\Ticket.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserRespository", "UserRespository", "{EAFC89B9-A3EB-4FEC-A9D5-0A7FD9A82432}"
+	ProjectSection(SolutionItems) = preProject
+		Project-Console Application\Customers.cs = Project-Console Application\Customers.cs
+		Project-Console Application\Signin.cs = Project-Console Application\Signin.cs
+		Project-Console Application\UserLoginDetails.cs = Project-Console Application\UserLoginDetails.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RegexValidation", "RegexValidation", "{98AAC94B-A547-4B03-8099-30F6B3C96D07}"
+	ProjectSection(SolutionItems) = preProject
+		Project-Console Application\Validation.cs = Project-Console Application\Validation.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoginManager", "LoginManager", "{F3A561BC-ECC7-4C2F-B68C-4C82615FBF16}"
+	ProjectSection(SolutionItems) = preProject
+		Project-Console Application\FrontPage.cs = Project-Console Application\FrontPage.cs
+		Project-Console Application\LoginPage.cs = Project-Console Application\LoginPage.cs
+		Project-Console Application\ValidateRoles.cs = Project-Console Application\ValidateRoles.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CashPay", "CashPay", "{83190F69-7BD9-41FF-B963-409D78F06C4C}"
+	ProjectSection(SolutionItems) = preProject
+		Project-Console Application\Payment.cs = Project-Console Application\Payment.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomePage", "HomePage", "{E7C2A09F-9DB2-434E-88DF-A67489422FA7}"
+	ProjectSection(SolutionItems) = preProject
+		Project-Console Application\FrontPage.cs = Project-Console Application\FrontPage.cs
+		Project-Console Application\MainClass.cs = Project-Console Application\MainClass.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119C02BE-0FEE-48B4-86A5-5606D834181F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119C02BE-0FEE-48B4-86A5-5606D834181F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119C02BE-0FEE-48B4-86A5-5606D834181F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119C02BE-0FEE-48B4-86A5-5606D834181F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A48103-60F5-4B4B-8B1E-B8D2EEC260F9}
+	EndGlobalSection
+EndGlobal

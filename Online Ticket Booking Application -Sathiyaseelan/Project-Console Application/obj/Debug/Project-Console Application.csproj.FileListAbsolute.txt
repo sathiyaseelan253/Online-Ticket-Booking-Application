@@ -1,0 +1,6 @@
+C:\Users\Sathiyaseelan\source\repos\Project-Console Application\Project-Console Application\bin\Debug\Project-Console Application.exe.config
+C:\Users\Sathiyaseelan\source\repos\Project-Console Application\Project-Console Application\bin\Debug\Project-Console Application.exe
+C:\Users\Sathiyaseelan\source\repos\Project-Console Application\Project-Console Application\bin\Debug\Project-Console Application.pdb
+C:\Users\Sathiyaseelan\source\repos\Project-Console Application\Project-Console Application\obj\Debug\Project-Console Application.csprojAssemblyReference.cache
+C:\Users\Sathiyaseelan\source\repos\Project-Console Application\Project-Console Application\obj\Debug\Project-Console Application.exe
+C:\Users\Sathiyaseelan\source\repos\Project-Console Application\Project-Console Application\obj\Debug\Project-Console Application.pdb
